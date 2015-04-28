@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>172FD08C-A587-4A8A-991F-34C1EE267D5A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SDKSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>c81c12f4-6276-2f43-b71e-88467c5cecd4++6221</key>
+		<string>http://scm-gy.tencent.com/gzrd/gzrd_mail_rep/MicroMsg_proj/trunk/iphone/branch/br_trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SDK/SDKSample/SDKSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>c81c12f4-6276-2f43-b71e-88467c5cecd4++6221</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>c81c12f4-6276-2f43-b71e-88467c5cecd4++6221</key>
+		<string>http://scm-gy.tencent.com/gzrd/gzrd_mail_rep</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://scm-gy.tencent.com/gzrd/gzrd_mail_rep/MicroMsg_proj/trunk/iphone/branch/br_trunk/SDK/SDKSample/SDKSample.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>c81c12f4-6276-2f43-b71e-88467c5cecd4++6221</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>c81c12f4-6276-2f43-b71e-88467c5cecd4++6221</string>
+			<key>IDESourceControlWCCName</key>
+			<string>br_trunk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
